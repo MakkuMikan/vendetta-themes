@@ -1,0 +1,112 @@
+{
+    "name": "Lilypichu (Purple)",
+    "description": "Modified version of the vencord lilypichu theme",
+    "authors": [
+        {
+            "name": "Makku",
+            "id": "344882569244049408"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#e6e1f8"
+        ],
+        "HEADER_SECONDARY": [
+            "#cac1e2"
+        ],
+        "TEXT_NORMAL": [
+            "#e6e1f8"
+        ],
+        "TEXT_MUTED": [
+            "#c6c1e2"
+        ],
+        "TEXT_DANGER": [
+            "#b1a1e9"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#c4b1fa"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#ccc1e2"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#cbc1e2"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#928cad"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#42365e"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#322949"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#2e204d"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#130f22"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#130f22"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#151122"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#241c45"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#47338f"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#322949"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#1e1542"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#412c96"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#241c45"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#47338f"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#3c2880"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#b1a1e9"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#ffbbbb"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "#fdc7c7"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#ffbbbb"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#fdc7c7"
+        ],
+        "KEYBOARD": [
+            "#281b54"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#ffeeee"
+        ],
+        "CHANNEL_ICON": [
+            "#b1a1e9"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#e5e1f8"
+        ],
+        "CHAT_BACKGROUND": [
+            "#241c45"
+        ]
+    },
+    "spec": 2
+}
